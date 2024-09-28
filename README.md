@@ -4,7 +4,7 @@ Removes duplicate words from ChatGPT-generated sentences.
 
 # Usage
 
-Put your words and sentences in words.txt. They must follow this format
+Put your words and sentences in words.txt and run the script. They must follow this format
 
 Required format: [word] - [sentence]
 
