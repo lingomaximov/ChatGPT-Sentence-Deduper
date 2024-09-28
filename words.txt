@@ -1,118 +1,51 @@
-メニュー - メニューを見せてください。
-注文 - 注文を取りに来ました。
-料理 - 料理はとても美味しいです。
-飲み物 - 飲み物は何にしますか？
-前菜 - 前菜としてサラダを頼みました。
-メインディッシュ - メインディッシュはステーキです。
-デザート - デザートを別に注文しました。
-ウェイター - ウェイターを呼びました。
-勘定 - 勘定をお願いします。
-チップ - チップは必要ですか？
-食事 - 食事はどうでしたか？
-予約 - 予約をしておいたほうがいいです。
-席 - 席を選んでください。
-おすすめ - おすすめの料理は何ですか？
-スペシャル - 今日のスペシャルは何ですか？
-食べ放題 - 食べ放題のコースがあります。
-飲み放題 - 飲み放題のプランを選びました。
-煮物 - 煮物がとても良い香りです。
-刺身 - 刺身が新鮮でした。
-炒め物 - 炒め物はスパイシーです。
-揚げ物 - 揚げ物がサクサクしています。
-ご飯 - ご飯を追加してください。
-麺 - 麺は手作りです。
-スープ - スープが温かいです。
-サラダ - サラダは新鮮な野菜で作られています。
-トッピング - トッピングは何にしますか？
-調味料 - 調味料はテーブルにあります。
-塩 - 塩を少し加えてください。
-砂糖 - 砂糖は必要ありません。
-酢 - 酢を使った料理が好きです。
-醤油 - 醤油をかけて食べます。
-辛い - 辛いものが苦手です。
-甘い - 甘いデザートが食べたいです。
-酸っぱい - 酸っぱい味が好きです。
-苦い - 苦い味はあまり好きではありません。
-アレルギー - 食べ物アレルギーがあります。
-野菜 - 野菜はたくさん食べます。
-肉 - 肉料理が好きです。
-魚 - 魚料理を選びました。
-鳥肉 - 鳥肉は焼いて食べます。
-豚肉 - 豚肉の料理が豊富です。
-牛肉 - 牛肉は柔らかいです。
-エビ - エビの料理を頼みました。
-カニ - カニは新鮮でした。
-蟹 - 蟹が大好きです。
-サーモン - サーモンの刺身が美味しいです。
-うなぎ - うなぎを食べたことがありますか？
-ステーキ - ステーキはミディアムで焼いてください。
-ハンバーグ - ハンバーグはジューシーです。
-ピザ - ピザをシェアしましょう。
-スパゲッティ - スパゲッティはアルデンテに茹でています。
-カレー - カレーは辛いですが美味しいです。
-寿司 - 寿司を食べるのが楽しみです。
-天ぷら - 天ぷらは軽い衣で揚げています。
-お好み焼き - お好み焼きを自分で作ります。
-たこ焼き - たこ焼きは外がカリカリです。
-ラーメン - ラーメンはスープが豊かです。
-うどん - うどんはもっちりしています。
-そば - そばは健康に良いです。
-チャーハン - チャーハンは冷たい飲み物と合います。
-揚げ出し豆腐 - 揚げ出し豆腐が好きです。
-おにぎり - おにぎりはお昼に最適です。
-お茶 - お茶を頼んでください。
-コーヒー - コーヒーはブラックでお願いします。
-ジュース - ジュースは何にしますか？
-アイスクリーム - アイスクリームはデザートにぴったりです。
-ヨーグルト - ヨーグルトは朝食に食べます。
-ケーキ - ケーキがふわふわです。
-パン - パンは焼きたてが一番です。
-バター - バターを塗って食べます。
-ハニー - ハニーをトーストにかけます。
-フルーツ - フルーツはデザートとして良いです。
-スムージー - スムージーは健康的です。
-バーガー - バーガーはボリュームがあります。
-ホットドッグ - ホットドッグを頼みました。
-サンドイッチ - サンドイッチは軽食に最適です。
-パスタ - パスタは自家製のソースで。
-シチュー - シチューは温まります。
-カップ - カップはどこにありますか？
-グラス - グラスに水を注いでください。
-プレート - プレートは温めておいてください。
-フォーク - フォークを持ってきてください。
-スプーン - スプーンは必要ですか？
-ナイフ - ナイフを使って切ります。
-お箸 - お箸を使って食べます。
-ナプキン - ナプキンを取ってください。
-ボトル - ボトルの水を注文しました。
-トレー - トレーに料理を乗せます。
-サービス - サービスがとても良いです。
-スペース - スペースを確保しておいてください。
-料理人 - 料理人が腕を振るっています。
-シェフ - シェフのおすすめを聞きました。
-キッチン - キッチンの中は忙しいです。
-食べ物 - 食べ物がすぐに出てきました。
-食器 - 食器を洗うのは大変です。
-飲食 - 飲食が楽しめる場所です。
-笑顔 - 笑顔で接客してくれます。
-帰り - 帰りにまた来ます。
-店 - 店が混んでいます。
-ビール - ビールを一杯お願いします。
-カクテル - カクテルはどれが人気ですか？
-ワイン - ワインを赤にしてください。
-おつまみ - おつまみを頼みました。
-味噌汁 - 味噌汁は必ず注文します。
-ピクルス - ピクルスはサイドディッシュです。
-ハーブ - ハーブが香りを引き立てます。
-ディップ - ディップソースをつけてください。
-グラタン - グラタンはとろけるチーズが美味しいです。
-キャベツ - キャベツはサラダに入れます。
-レタス - レタスを追加してください。
-トマト - トマトは新鮮で甘いです。
-ニンジン - ニンジンは生で食べます。
-ジャガイモ - ジャガイモはマッシュします。
-玉ねぎ - 玉ねぎが香ばしいです。
-ピーマン - ピーマンは苦いですが好きです。
-とうもろこし - とうもろこしは甘いです。
-きのこ - きのこがたっぷり入っています。
-ハーブ - ハーブが香りを引き立てます。
+tango - atarashī tango o mainichi oboeru no wa taisetsudesu .
+bunpō - bunpō ga muzukashiku kanjiru toki mo arimasu .
+gengo - gengo o manabu no wa tanoshī chōsendesu .
+hatsuon - nihongo no hatsuon o renshū shiteimasu .
+goi - goi o fuyasu tame ni takusan yondeimasu .
+renshū - mainichi sukoshi zutsu renshū suru koto ga daijidesu .
+kikitori - kikitori no sukiru o kōjō sasetaidesu .
+kaiwa - nipponjin to kaiwa suru no wa kinchō shimasu .
+kotoba - kotoba no tsukaikata ni ki o tsuketekudasai .
+bun - kono bun o tadashiku rikai dekimashita ka ？
+honyaku - honyaku wa kanarazushimo kantande wa arimasen .
+hatsuon kigō - hatsuon kigō o oboeru no wa taihendesu .
+dōshi - dōshi no katsuyō o oboeru no wa muzukashīdesu .
+meishi - kono meishi no tsukaikata o oshietekudasai .
+fukushi - fukushi wa bun o kyōchō suru tame ni tsukaimasu .
+keiyōshi - atarashī keiyōshi o oboeru no ga tanoshīdesu .
+setsuzokushi - setsuzokushi o masashiku tsukau renshū ga hitsuyōdesu .
+bunmyaku - bunmyaku o rikai suru to imi ga wakari yasuidesu .
+dokkai - dokkai no renshū o tsuzuketeimasu .
+kunren gogaku no kunren ni wa jikan ga kakarimasu .
+gakushū - gengo gakushū wa mainichi no doryoku ga hitsuyōdesu .
+jisho - wakaranai tango wa jisho de shirabemasu .
+hikki - hikki no renshū o motto shinakerebanarimasen .
+hanashikotoba - hanashikotoba wa kakikotoba to kotonaru koto ga arimasu .
+kakikotoba - kakikotoba de no hyōgenryoku mo daijidesu .
+shidō - sensei no shidō o shikkari to ukemashō .
+bunkei - kono bunkei no tsukaikata ga yoku wakarimasen .
+rikai - gengo o rikai suru tame ni wa renshū ga hitsuyōdesu .
+shūtoku - gengo o shūtoku suru ni wa jikan ga kakarimasu .
+hatten go gakuryoku no hatten o mezashite ganbarimasu .
+kioku - kiokuryoku o takameru hōhō o sagashiteimasu .
+shūchū - gakushū chū wa shūchūryoku ga hitsuyōdesu .
+seikaku sa - seikaku sa yori mo ryūchō sa o ishiki shimashō .
+ryūchō sa - ryūchō sa o takameru tame ni takusan hanashimasu .
+machigai - machigai o osorezu ni hanashimashō .
+shitsumon - sensei ni shitsumon suru koto o wasurenaidekudasai .
+teisei - kotoba no teisei o sekkyoku teki ni ukeiremasu .
+kiroku - gakushū no shinchoku o kiroku suru no ga yakudachimasu .
+fukushū - fukushū o okotaranai koto ga jūyōdesu .
+tangochō - tangochō o tsukatte goi o fuyashimasu .
+ondoku - ondoku wa hatsuon renshū ni kōka tekidesu .
+shikaku - shikaku teki ni manabu to kioku ni nokori yasuidesu .
+chōkaku - chōkaku o katsuyō shite risuninguryoku o takamemasu .
+kurikaeshi - kurikaeshi renshū suru to jōtatsu shimasu .
+kakitori - kakitori renshū o mainichi tsuzuketeimasu .
+jishobiki - jishobiki o shūkan ni shiteimasu .
+jugyō - jugyō de wa itsumo atarashī koto o manabimasu .
+reibun - reibun o tsukatte tango o oboe yasuku shimasu .
+jugyō - jugyō de wa itsumo atarashī koto o manabimasu .
+benkyō - ichi nichi ni sukunakutomo 1 jikan benkyō shiteimasu .
+tesuto - tesuto mae ni wa shikkari to fukushū shimashō .
